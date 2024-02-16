@@ -1,1 +1,28 @@
+hr{
+  width: 100%;
+  height: 100px;
+  border: none;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-image: url("Images/Snail HR.png");
+}
 
+header{
+  background-color: #d2aa88;
+  display: block;
+  }
+h1{
+  font-size: 40px;
+  text-align: center;
+}
+h2{
+  font-size: 25px;
+  text-align: center;
+}
+.image-style {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  height:50%;
+}
