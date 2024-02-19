@@ -1,4 +1,5 @@
 hr{
+  font-family: "brandon grotesque";
   width: 100%;
   height: 100px;
   border: none;
@@ -8,6 +9,7 @@ hr{
 }
 
 header{
+  font-family: "brandon grotesque";
   background-color: #d2aa88;
   display: block;
   }
@@ -26,3 +28,9 @@ h2{
   width:30%;
   height:30%;
 }
+p{
+  color: black;
+  font-size: 12px;
+  font-family: "open sans";
+}
+  
