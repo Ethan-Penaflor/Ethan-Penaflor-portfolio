@@ -33,4 +33,7 @@ p{
   font-size: 12px;
   font-family: "open sans";
 }
+a:any-link{
+  color: #633974;
+}
   
