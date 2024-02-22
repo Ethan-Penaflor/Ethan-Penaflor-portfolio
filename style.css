@@ -12,7 +12,7 @@ header{
   font-family: "brandon grotesque";
   background-color: #d2aa88;
   display: block;
-  padding-left: 10px
+  padding: 10px;
   }
 h1{
   font-size: 40px;
